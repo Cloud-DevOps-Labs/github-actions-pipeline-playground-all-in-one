@@ -1,4 +1,4 @@
-# GitHub Actions Pipeline Playground
+# GitHub Actions Pipeline Playground (students)
 
 Este repositorio contiene una implementación de referencia de un pipeline de CI/CD utilizando GitHub Actions, Terraform y AWS. El pipeline despliega una aplicación web estática en AWS S3 y gestiona los artefactos de build.
 
